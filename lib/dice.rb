@@ -1,4 +1,6 @@
 class Dice
-  def roll(dice)
+
+  def roll(number)
+    number = 1
   end
 end
